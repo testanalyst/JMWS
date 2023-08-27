@@ -21,7 +21,7 @@ https://jmeter-plugins.org/editor/#
 https://jmeter-plugins.org/install/Install/
 
 Quality content sites / blogs
-
+galing.io
 https://jmeter.apache.org/usermanual/
 https://octoperf.com/blog/
 https://www.blazemeter.com/blog/
